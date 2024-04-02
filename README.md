@@ -1,4 +1,4 @@
-# Watch-Dogs Mouse Acceleration Fix
+# Mouse Acceleration Fix for Watch Dogs
 This mod gets rid of all damping and smoothing the game does on the camera input.\
 \
 Two variants are available:
