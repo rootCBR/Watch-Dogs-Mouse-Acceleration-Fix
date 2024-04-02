@@ -9,14 +9,14 @@ A single `dinput8.dll` file to place in the same directory as your game executab
 ## Loader
 This variant comes with two separate libraries:
 
-#### dinput8.dll
+### `dinput8.dll`
 Allows you to load multiple libraries at the same time.\
 To do this, create a `loader.txt` in the same directory as your game executable and list the paths to the library files (*.dll) you want to load in the game.\
 \
 Works with relative paths.\
 Use two backward slashes `\\` for directories.
 
-#### Fixer.dll
+### `Fixer.dll`
 Contains the isolated functionalities of the mod and is to be targeted by the loader.
 
 ## Troubleshooting
